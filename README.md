@@ -1,6 +1,7 @@
-Hi 👋, I'm Eric
+Hi 👋, I'm Eric 
 
-A passionate software engineer
+I'm passionate about doing "cool" things that "matter" with code. 
+I focus more on turning ideas into executables for measurable results.
 
 🔭 I’m interested in web and mobile development, open-source projects
 

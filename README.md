@@ -1,4 +1,4 @@
-Hi 👋, I'm Eric 
+👋 Hi, I'm Eric 
 
 😎 I'm passionate about doing "cool" things that "matter" with code. 
 

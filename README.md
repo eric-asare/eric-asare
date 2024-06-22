@@ -1,6 +1,6 @@
 👋 Hi, I'm Eric 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wisesofthemall&label=Profile%20views&color=0e75b6&style=flat" alt="wisesofthemall" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eric-asare&label=Profile%20views&color=0e75b6&style=flat" alt="eric-asare" /> </p>
 
 😎 Passionate about Software Engineering
 

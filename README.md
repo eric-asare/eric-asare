@@ -1,6 +1,8 @@
 👋 Hi, I'm Eric 
 
-😎 I'm passionate about doing "cool" things that "matter" with code. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wisesofthemall&label=Profile%20views&color=0e75b6&style=flat" alt="wisesofthemall" /> </p>
+
+😎 Passionate about Software Engineering
 
 📈 I focus more on turning ideas into executables for measurable results.
 

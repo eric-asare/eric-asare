@@ -2,11 +2,11 @@
 
 👋 Hi, I'm Eric 
 
-😎 Passionate about Software Engineering
+😎 Passionate about Software Engineering, Machine Learning, Clinical Artificial Intelligence. 
 
 📈 I focus more on turning ideas into executables for measurable results.
 
-🔭 I’m interested in web and mobile development, open-source projects
+🔭 I’m interested in, AI, web and mobile development, open-source projects
 
 🌱 I’m always learning new technologies
 

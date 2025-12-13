@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Eric 
 
-😎 Passionate about Software Engineering, Machine Learning, Clinical Artificial Intelligence. 
+😎 Passionate about Software Engineering, Machine Learning, and Clinical Artificial Intelligence. 
 
 📈 I focus more on turning ideas into executables for measurable results.
 

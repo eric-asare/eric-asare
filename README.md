@@ -1,7 +1,7 @@
 
 👋 Hi, I'm Eric 
 
-😎 Passionate about Software Engineering, Machine Learning
+😎 Passionate about Software Engineering
 
 📈 I focus more on turning ideas into executables for measurable results.
 
